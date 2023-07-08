@@ -38,8 +38,8 @@
             Cadastro
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Professor</a></li>
-            <li><a class="dropdown-item" href="#">Aluno</a></li>
+            <li><a class="dropdown-item" href="">Professor</a></li>
+            <li><a class="dropdown-item" href="cadaluno.php">Aluno</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Passoal de apoio</a></li>
           </ul>
