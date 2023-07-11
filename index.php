@@ -4,26 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="pen.css">
    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"> -->
    <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
     <title>Home</title>
-    <style>
-        .img-thumbnail{
-            widows: 50px;
-            height: 50px;
-            padding: 5px;
-        }
-       
-      
-
-    </style>
+   
 </head>
 <body>
 
     <nav class="navbar navbar-expand-lg bg-body-secondary">
-  <div class="container-fluid">
-    <img src="imagem/logo.jpg" class="img-thumbnail" alt="">
-    <a class="navbar-brand p-3 text-info">ESC MUL BENEDITO LIMA PENELVA</a>
+  <div class="container">
+    <img src="imagem/Penelva.png" class="img-thumbnail" alt="">
+    <a class="navbar-brand p-3 ">ESC MUL BENEDITO LIMA PENELVA</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -58,7 +50,7 @@
   </div>
 </nav>
 <div class="text-center p-5">
-  <img src="imagem/logo.jpg" class="rounded" alt="...">
+  <img src="imagem/Penelva.png" class="img-stretch" alt="...">
 </div>
     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
 </body>
